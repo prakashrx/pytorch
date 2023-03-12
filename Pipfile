@@ -12,6 +12,7 @@ sklearn = "*"
 matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
+diffusers = "*"
 
 [dev-packages]
 ipykernel = "*"
